@@ -36,5 +36,9 @@ Note that the port number may be different depending on how the application is c
 
 You can now access the application by opening a web browser and navigating to http://localhost:8080 (or the appropriate port number).
 
+## Postman
+
+I would like to inform you that as part of the documentation for this application, a Postman collection has been included in the doc folder. This collection can be used to test the different endpoints and functionalities of the application.
+
 ## Conclusion
 That's it! You should now be able to start a Node.js application using npm start after cloning the code from Git. If you encounter any issues, make sure to check the application's documentation and error messages for troubleshooting steps.
